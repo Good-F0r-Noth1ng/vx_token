@@ -1,0 +1,16 @@
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 本地日志与敏感配置
+*.log
+.env
+.env.*
+*.token
